@@ -1,0 +1,67 @@
+Here you can find a parts list with example seller (affiliate links):
+
+Aliexpress:
+
+1x Buck/Boost Converter: https://s.click.aliexpress.com/e/_dTevK0K
+
+1x LF33 Voltage Regulator: https://s.click.aliexpress.com/e/_dT0fKCw
+
+1x 10nF Capacitor: https://s.click.aliexpress.com/e/_dU4FEsB
+
+1x 10µF Capacitor: https://s.click.aliexpress.com/e/_d7dOwRz
+
+1x 0.1Ω Current shunt: https://s.click.aliexpress.com/e/_dSyQdMA
+
+2x 3.3kΩ, 2x 100kΩ Resistor: https://s.click.aliexpress.com/e/_dTPpXjt
+
+1x MCP602 OpAmp: https://s.click.aliexpress.com/e/_dTvJRGw
+
+1x 10kΩ Trimmer: https://s.click.aliexpress.com/e/_dTFyPv5
+
+1x UF4007 Diode: https://s.click.aliexpress.com/e/_dYR45Bh
+
+1x Voltage/Current Meter: https://s.click.aliexpress.com/e/_d8lymHM
+
+Ebay:
+
+1x Buck/Boost Converter: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x LF33 Voltage Regulator: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x 10nF Capacitor: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x 10µF Capacitor: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x 0.1Ω Current shunt: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+2x 3.3kΩ, 2x 100kΩ Resistor: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x MCP602 OpAmp: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x 10kΩ Trimmer: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x UF4007 Diode: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+1x Voltage/Current Meter: http://rover.ebay.com/rover/1/711-53200-19255-0/1?...
+
+Amazon.de:
+
+1x Buck/Boost Converter: http://amzn.to/2w1WgTz
+
+1x LF33 Voltage Regulator: http://amzn.to/2w1f2dF
+
+1x 10nF Capacitor: http://amzn.to/2xIowip
+
+1x 10µF Capacitor: http://amzn.to/2habIql
+
+1x 0.1Ω Current shunt: http://amzn.to/2haAOWd
+
+2x 3.3kΩ, 2x 100kΩ Resistor: http://amzn.to/2w2jSaI
+
+1x MCP602 OpAmp: http://amzn.to/2x61uBr
+
+1x 10kΩ Trimmer: http://amzn.to/2x9NmVc
+
+1x UF4007 Diode: http://amzn.to/2w2vzxU
+
+1x Voltage/Current Meter: http://amzn.to/2xJ2YCt
